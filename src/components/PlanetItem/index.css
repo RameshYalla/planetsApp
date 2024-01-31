@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.plan {
+  height: 28vh;
+  width: 20vw;
+}
+.car {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f1f5f9;
+}
